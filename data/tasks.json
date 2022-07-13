@@ -1,0 +1,13 @@
+{
+  "tasks": [
+    {
+      "userName": "Vaishnavi",
+      "taskName": "SQL ",
+      "taskDetail": "new SQL batch from monday",
+      "startDate": "2022-07-18",
+      "endDate": "2022-07-30",
+      "status": "Pending",
+      "id": 1
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "name": "vaishnavi",
+      "password": "vaish",
+      "userid": "vaish@gmail.com",
+      "gender": "female",
+      "id": 1
+    },
+    {
+      "name": "kanchan",
+      "password": "kanch123",
+      "userid": "kanchusakangoudar@gmail.com",
+      "gender": "female",
+      "id": 2
+    },
+    {
+      "name": "",
+      "password": "",
+      "userid": "",
+      "gender": "",
+      "id": 3
+    },
+    {
+      "name": "vikku",
+      "password": "vikku123",
+      "userid": "vishalk@gmail.com",
+      "gender": "male",
+      "id": 4
+    }
+  ]
+}
